@@ -1,0 +1,8 @@
+local dice1 = game.workspace.GameParts.Dice.Dice1
+local dice2 = game workspace.GameParts.Dice.Dice2
+
+workspace
+
+dice1.Anchored = false -- Roll the first Dice
+wait (0.5)
+dice2.Anchored = false -- Roll the second Dice 
